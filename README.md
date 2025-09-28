@@ -38,7 +38,7 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 **Workstation Tools:**  
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion" />
+  <!-- <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion" /> -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu" />
 </p>
 
@@ -74,7 +74,7 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/coding.gif" width="400px" alt="Coding GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFvYmt3bGhpcjQ4NGxsdzA1dnNwcHVwMTU3OXV2YjU4N2c2NDd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="400px" alt="Coding GIF" />
 </p>
 
 ## 🐍 Watch my contributions get eaten!
