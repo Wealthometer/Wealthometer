@@ -66,9 +66,9 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-@YOUR_HANDLE-blue?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-Let's%20Talk!-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://x.com/wealthometer_10lin"><img src="https://img.shields.io/badge/Twitter-@YOUR_HANDLE-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/wealth-hajoh-a5a61433a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:wealthhajoh87@gmail.com"><img src="https://img.shields.io/badge/Gmail-Let's%20Talk!-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
