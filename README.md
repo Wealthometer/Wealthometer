@@ -42,6 +42,12 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu" />
 </p>
 
+## 📊 Language Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wealthometer&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 ---
 
 ## 🚀 Featured Projects
