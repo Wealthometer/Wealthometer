@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wealthometer/Wealthometer/main/web.jpeg" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Wealthometer/Wealthometer/main/web.jpeg?raw=true" alt="Banner" />
 </p>
 
 # 👋 Hey, I'm Wealth!
