@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="/main/web.jpeg" alt="Banner" width="1000" height="250" />
+  <img src="/main/web.jpeg" alt="Banner" width="250" height="250" />
 </p>
 
 # 👋 Hey, I'm Wealth!
