@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Wealthometer/Wealthometer/main/web.jpeg" alt="Banner" />
 </p>
 
 # 👋 Hey, I'm Wealth!
@@ -82,8 +82,8 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
   <img src="https://github.com/Wealthometer/Wealthometer/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Wealthometer/Wealthometer/blob/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Wealthometer/Wealthometer/blob/output/snake.svg" />
   <img alt="snake animation" src="https://github.com/Wealthometer/Wealthometer/blob/output/snake.svg" />
-</picture>
+</picture> -->

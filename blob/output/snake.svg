@@ -1,0 +1,34 @@
+<svg viewBox="0 0 600 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="240">
+  <defs>
+    <linearGradient id="snakeGrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#3a7d44"/>
+      <stop offset="1" stop-color="#98e4a6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- path for body (invisible fill, used by head motion too) -->
+  <path id="spine" d="M20 120 C90 10, 180 10, 260 90 C340 170, 440 170, 520 90"
+        fill="none" stroke="transparent" stroke-width="1"/>
+
+  <!-- stroked body -->
+  <path class="body" d="M20 120 C90 10, 180 10, 260 90 C340 170, 440 170, 520 90"
+        fill="none" stroke="url(#snakeGrad)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- decorative belly stripe -->
+  <path d="M26 120 C92 20, 176 20, 258 88 C334 156, 428 156, 514 88"
+        fill="none" stroke="#dcedc8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+
+  <!-- head group that follows the path -->
+  <g class="head">
+    <circle r="12" fill="#2e7d32"/>
+    <circle cx="-2" cy="-3" r="2.8" fill="#fff"/>
+    <!-- small pupil -->
+    <circle cx="-1" cy="-3" r="1.1" fill="#000"/>
+    <!-- tongue (static relative to head) -->
+    <path d="M8 6 L14 12 L8 10" stroke="#e53935" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <animateMotion dur="4s" repeatCount="indefinite" rotate="auto">
+      <mpath xlink:href="#spine"/>
+    </animateMotion>
+  </g>
+
+</svg>
