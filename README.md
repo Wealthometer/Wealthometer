@@ -125,10 +125,10 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 - 📝 **[Nigerian 300 Q&A Game](https://github.com/Wealthometer/300-questions)** – Fun relationship game for couples 🇳🇬  
 - ✅ **[Go Todo App](https://github.com/Wealthometer/go-todo)** – A full-stack todo app using Go + MongoDB  
-- 💌 **Romantic WhatsApp Game** – 1,000+ deep relationship questions (still cooking 👨🏽‍🍳)
+- 💌 **Romantic WhatsApp Game** – 1,000+ deep relationship questions (still cooking 👨🏽‍🍳) -->
 
 ---
 
