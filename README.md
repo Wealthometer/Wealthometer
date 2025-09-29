@@ -133,9 +133,9 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 ---
 
 ## 🎯 Currently Exploring
-- 🌱 Learning: **Advanced Go + MongoDB**
-- 🧠 Deep-diving into: **CSS Animations & UI microinteractions**
-- ⚡ Building: **Fun open-source tools for devs**
+- DevOps 
+- Deep-diving into: **CSS Animations & UI microinteractions**
+- Building: **Fun open-source tools for devs**
 
 ---
 
