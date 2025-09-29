@@ -11,11 +11,11 @@ I love turning ideas into code and code into products.
 Currently grinding on **Go**, **React**, and building some 🔥 open-source tools.
 
 ---
-
+<!-- 
 ## 📊 GitHub Contributions
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Wealthometer&theme=radical&border_radius=8" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ## 🔥 My Stats
 <p align="center">
