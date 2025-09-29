@@ -17,6 +17,13 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
   <img src="https://streak-stats.demolab.com?user=Wealthometer&theme=radical&border_radius=8" alt="GitHub Streak" />
 </p>
 
+## 🔥 My Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wealthometer&show_icons=true&theme=radical" alt="Wealth's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Wealthometer&theme=radical" alt="GitHub Streak" />
+</p>
+
+
 ---
 
 ## 🛠 Tech Stack
