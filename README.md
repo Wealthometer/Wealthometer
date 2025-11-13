@@ -20,7 +20,7 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 ## 🔥 My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wealthometer&show_icons=true&theme=radical" alt="Wealth's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Wealthometer&theme=radical" alt="GitHub Streak" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scbushan05)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
