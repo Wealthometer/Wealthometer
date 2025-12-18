@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=200&section=header&text=Welcome%20&fontSize=50&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Senior%20Full-Stack%20Developer&descSize=20&descAlign=50&animation=twinkling" />
+</p>
+
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="/main/web.jpeg" alt="Banner" width="250" height="250" />
