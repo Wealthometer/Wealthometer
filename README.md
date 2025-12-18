@@ -123,7 +123,7 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 
 ## 📊 Language Stats
 <!-- <p align="center"> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wealthometer&layout=compact&langs_count=2&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wealthometer&layout=compact&langs_count=20&theme=tokyonight)
 <!-- <p> -->
 
 
