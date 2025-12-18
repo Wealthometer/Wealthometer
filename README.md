@@ -152,6 +152,11 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFvYmt3bGhpcjQ4NGxsdzA1dnNwcHVwMTU3OXV2YjU4N2c2NDd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="400px" alt="Coding GIF" />
 </p>
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Wealthometer.Wealthometer)](https://github.com/Wealthometer)
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer" />
+</p>
 <!-- 
 ## 🐍 Watch my contributions get eaten!
 <p align="center">
