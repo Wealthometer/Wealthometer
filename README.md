@@ -161,6 +161,12 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer" />
 </p>
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 <!-- 
 ## 🐍 Watch my contributions get eaten!
 <p align="center">
