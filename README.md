@@ -165,7 +165,7 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Wealthometer/Wealthometer/blob/output/github-snake-dark.svg)
 </div>
 <!-- 
 ## 🐍 Watch my contributions get eaten!
