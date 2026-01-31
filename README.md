@@ -123,7 +123,7 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 
 ## 📊 Language Stats
 <!-- <p align="center"> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wealthometer&layout=compact&langs_count=20&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wealthometer&layout=compact&langs_count=21&theme=tokyonight)
 <!-- <p> -->
 
 
@@ -158,15 +158,17 @@ Currently grinding on **Go**, **React**, and building some 🔥 open-source tool
 </p>
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Wealthometer.Wealthometer)](https://github.com/Wealthometer)
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer" />
-</p>
+
 
 <!-- Snake Animation -->
 <div align="center">
     
   ![snake gif](https://github.com/Wealthometer/Wealthometer/blob/output/github-snake-dark.svg)
 </div>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer" />
+</p>
 <!-- 
 ## 🐍 Watch my contributions get eaten!
 <p align="center">
