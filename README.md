@@ -9,6 +9,8 @@
 
 # 👋 Hey, I'm Wealth!
 
+You can also call me wealthometer
+
 💻 **Full-Stack Developer** | 🛠 **Builder of cool web apps** | 🚀 **Always shipping**
 
 I love turning ideas into code and code into products.  
