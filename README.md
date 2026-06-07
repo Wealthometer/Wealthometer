@@ -91,10 +91,31 @@ Over the years, I've built web applications, mobile apps, AI tools, desktop soft
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,netlify" />
 </p>
 
-### Tools
+### Tools & Workspace
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,rust,unity,ps" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scene_Builder-FF6600?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code::Blocks-29ABE2?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
+</p>
+
+### 🎮 Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
 </p>
 
 ---
