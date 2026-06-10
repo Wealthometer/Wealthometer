@@ -1,190 +1,248 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=200&section=header&text=Welcome&fontSize=50&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20Product%20Builder&descSize=20&descAlign=50&animation=twinkling" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="/main/web.jpeg" alt="Banner" width="250" height="250" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8A2BE2,100:0d0d0d&height=200&section=header&text=Wealthometer&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Builder%20•%20Cloud%20Engineer&descAlignY=60&descSize=18&descColor=ffffff" />
+
+</div>
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=Wealthometer&style=flat&color=blueviolet)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Product+Builder;Backend+%26+Systems+Engineer;Cloud+Infrastructure+Explorer;Always+Building+Something+New)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 # 👋 Hey, I'm Wealth
 
 Also known as **Wealthometer**.
 
-💻 Full-Stack Developer  
-🚀 Product Builder  
-🛠 Open Source Contributor
+🚀 Full-Stack Developer  
+🧠 AI Product Builder  
+☁️ Cloud & Infrastructure Enthusiast  
+📱 Mobile App Developer  
+⚙️ Backend & Systems Engineer
 
-I enjoy transforming ideas into products.
+I enjoy building products from idea to deployment.
 
-Over the years, I've built web applications, mobile apps, AI tools, desktop software, developer tools, management systems, social platforms, e-commerce solutions, and experimental projects across multiple programming languages and frameworks.
+From web applications and mobile apps to AI tools, desktop software, APIs, management systems, SaaS platforms, real-time systems and experimental projects.
 
 > Build. Learn. Ship. Repeat.
 
 ---
 
-## 🔥 GitHub Stats
+# ⚡ Tech Stack
+
+## 💻 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wealthometer&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=Wealthometer&theme=radical" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,java,kotlin,python,php,rust,c,cpp,cs,dart&perline=12" />
 </p>
 
 ---
 
-## 🚀 What I Build
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,tailwind,bootstrap,vite&perline=10" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,laravel,graphql&perline=8" />
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&perline=5" />
+</p>
+
+---
+
+## 🧠 AI & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase&perline=6" />
+</p>
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,nginx,git,githubactions&perline=10" />
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge&logo=githubactions" />
+
+<img src="https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel" />
+
+<img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify" />
+
+</p>
+
+---
+
+## 🎮 Game Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unity,blender&perline=2" />
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,postman,figma&perline=7" />
+</p>
+
+---
+
+# 🚀 What I Build
 
 - Full-Stack Applications
-- AI-Powered Products
-- Mobile Applications
+- AI Products
 - SaaS Platforms
-- Real-Time Communication Systems
-- Developer Tools
-- Open Source Projects
-- Backend APIs & Microservices
-
----
-
-## 🏆 Highlights
-
-- 100+ Public Repositories
-- Built Projects Across Multiple Languages
-- Full-Stack Web Applications
 - Mobile Applications
-- AI-Powered Solutions
-- Real-Time Chat Applications
-- E-Commerce Platforms
+- Cloud-Native Services
+- Backend APIs
+- Real-Time Systems
+- Developer Tools
 - Desktop Applications
-- Cloud & DevOps Projects
-- Open Source Contributions
+- Open Source Projects
 
 ---
 
-## ⚡ Technologies I Work With
+# 📊 GitHub Analytics
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,java,kotlin,python,php,rust,c,cpp,cs,dart" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wealthometer&show_icons=true&theme=tokyonight&count_private=true" />
 
-### Frontend
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wealthometer&layout=compact&theme=tokyonight&langs_count=12" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,tailwind" />
-</p>
+</div>
 
-### Backend
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,laravel" />
-</p>
+<div align="center">
 
-### Databases
+<img src="https://streak-stats.demolab.com?user=Wealthometer&theme=tokyonight" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
+</div>
 
-### DevOps & Cloud
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,netlify" />
-</p>
+<div align="center">
 
-### Tools & Workspace
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wealthometer&theme=tokyo-night" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,ps" />
-</p>
-
-<!-- <p>
-  <img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scene_Builder-FF6600?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code::Blocks-29ABE2?style=for-the-badge&logo=codeblocks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
-</p> -->
-
-### 🎮 Game Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,blender" />
-</p>
-
-<!-- <p>
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
-</p>   -->
+</div>
 
 ---
 
-## 📊 Language Statistics
+# 🏆 GitHub Trophies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wealthometer&layout=compact&langs_count=21&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Wealthometer&theme=tokyonight&margin-w=15&margin-h=15" />
+
+</div>
 
 ---
 
-## 💡 Builder Mindset
+# 💡 Builder Mindset
 
-I learn best by building.
+Most projects start with one question:
 
-Most of my projects start with a simple question:
-
-**"What happens if I build this?"**
+### "What happens if I build this?"
 
 That curiosity has pushed me into:
 
-- Web Development
-- Mobile Development
+- Full-Stack Development
 - Artificial Intelligence
-- Backend Engineering
+- Mobile Development
+- Cloud Infrastructure
 - Systems Programming
-- Cloud Technologies
+- Backend Engineering
 - Product Design
 
 Every project teaches something new.
 
 ---
 
-## 📈 Beyond The Code
+# 📈 Beyond The Code
 
-When I'm not coding, you'll probably find me:
+When I'm not coding:
 
 - Exploring new technologies
 - Designing product ideas
-- Experimenting with AI
-- Building side projects
+- Building AI experiments
 - Contributing to open source
+- Learning new architectures
+- Creating side projects
 
 The next project is always loading...
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p align="center">
-  <a href="https://x.com/wealthometer_10lin">
-    <img src="https://img.shields.io/badge/X-@wealthometer_10lin-black?style=for-the-badge&logo=x" />
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/wealth-hajoh-a5a61433a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://x.com/wealthometer_10lin">
+<img src="https://img.shields.io/badge/X-@wealthometer_10lin-black?style=for-the-badge&logo=x" />
+</a>
 
-  <a href="mailto:wealthhajoh87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Let's_Talk-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/wealth-hajoh-a5a61433a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:wealthhajoh87@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Let's_Talk-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
 
 ---
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFvYmt3bGhpcjQ4NGxsdzA1dnNwcHVwMTU3OXV2YjU4N2c2NDd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="400px" alt="Coding GIF" />
-</p>
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Wealthometer.Wealthometer)](https://github.com/Wealthometer)
 
 <div align="center">
 
@@ -192,6 +250,8 @@ The next project is always loading...
 
 </div>
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8A2BE2,100:0d0d0d&height=120&section=footer" />
+
+</div>
