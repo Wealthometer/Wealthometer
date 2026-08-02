@@ -150,7 +150,38 @@ From web applications and mobile apps to AI tools, desktop software, APIs, manag
 - Open Source Projects
 
 ---
+---
 
+# 📦 Open Source Packages
+
+### 🛠️ Ometer Programming Language
+
+A programming language compiler and virtual machine built with TypeScript.
+
+- Custom Lexer & Parser
+- AST Generation
+- Bytecode Compiler
+- Virtual Machine Runtime
+- CLI Support
+
+🔗 NPM: https://www.npmjs.com/package/@wealthometer/ometer
+
+---
+
+### 🎨 FlowCSS
+
+A modern CSS framework with 40+ animations, glassmorphism, 3D transforms, pre-built components, and dark mode — zero dependencies, zero build step.
+
+- 40+ Built-in Animations
+- Glassmorphism Utilities
+- 3D Transform Effects
+- Pre-built Components
+- Auto-Responsive Grid
+- Dark Mode Support
+
+🔗 NPM: https://www.npmjs.com/package/flowcss-style
+
+---
 # 📊 GitHub Analytics
 
 <div align="center">
