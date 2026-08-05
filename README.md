@@ -213,12 +213,46 @@ A modern CSS framework with 40+ animations, glassmorphism, 3D transforms, pre-bu
 # 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wealthometer&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-trophies.vercel.app/?username=Wealthometer&margin-w=15&margin-h=15&theme=darkhub" alt="trophy" />
+  
+</div>
 
 </div>
 
 ---
+
+<center>
+
+```diff
++          ██╗      █████╗ ███╗   ███╗    ██╗  ██╗██╗███╗   ███╗
+-          ██║     ██╔══██╗████╗ ████║    ██║  ██║██║████╗ ████║
+!          ██║     ███████║██╔████╔██║    ███████║██║██╔████╔██║
+-          ██║     ██╔══██║██║╚██╔╝██║    ██╔══██║██║██║╚██╔╝██║
++          ██║     ██║  ██║██║ ╚═╝ ██║    ██║  ██║██║██║ ╚═╝ ██║
+
+```
+</center>
+
+## 📊 GitHub Intelligence
+
+<div align="center">
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Wealthometer&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&icon_color=00fff0&border_color=00fff022&count_private=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wealthometer&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_color=00fff022&langs_count=8" />
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wealthometer&theme=dark&background=0d0d0d&ring=00fff0&fire=ff6b35&currStreakLabel=00fff0&sideLabels=ffffff&border=00fff022" />
+
+</div>
+
+<div align="center">
+
+[![Wealthometer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wealthometer&bg_color=0d0d0d&color=00fff0&line=00fff0&point=ff6b35&area=true&hide_border=true)](https://github.com/Wealthometer)
+
+</div>
+
+<div align="center">
 
 # 💡 Builder Mindset
 
