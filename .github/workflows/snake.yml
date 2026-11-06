@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
@@ -26,13 +26,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffc72c&color_dots=#2b2770,#4a4699,#7a74c9,#ffc72c,#ff6b4a
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
